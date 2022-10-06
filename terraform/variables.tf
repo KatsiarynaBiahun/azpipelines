@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "myKBResourceG"
+  default = "mykbrgkatkat"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "myKBAppName"
+  default     = "mykbappkatkat"
 }
 
 variable "location" {

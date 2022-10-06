@@ -1,9 +1,9 @@
 variable "resource_group" {
-  default = "mykbrgkatkat"
+  default = "mykbrgkatkat8894"
 }
 
 variable "application_name" {
-  default     = "mykbappkatkat"
+  default     = "mykbappkatkat8894"
 }
 
 variable "location" {
